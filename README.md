@@ -1,6 +1,6 @@
 # Document image binarization using structural symmetry of strokes
 
-**I have implemented this following paper here : **
+**I have implemented this following paper here :**
 ```
 Jia, F., Shi, C., He, K., Wang, C., & Xiao, B. (2016). Document image binarization using structural symmetry of strokes. Frontiers in Handwriting Recognition (ICFHR), 2016 15th International Conference On, 411–416.
 ```
@@ -18,12 +18,12 @@ Jia, F., Shi, C., He, K., Wang, C., & Xiao, B. (2018). Degraded document image b
 
 3) Gradient image calculation and pixel direction calculation from gradient image
 
-**Then the remaining portion are taken from the above mentioned paper : **
+**Then the remaining portion are taken from the above mentioned paper :**
 ```
 Jia, F., Shi, C., He, K., Wang, C., & Xiao, B. (2016). Document image binarization using structural symmetry of strokes. Frontiers in Handwriting Recognition (ICFHR), 2016 15th International Conference On, 411–416.
 ```
 
 
-**The main function to call : **
+**The main function to call :**
 
 Structural_Symmetric_Strokes.m 
